@@ -1,7 +1,7 @@
 The MIT License (MIT)
 =====================
 
-Copyright (c) <year> <copyright holders>
+Copyright (c) 2014 Software for Education, Entertainment and Training Activities (http://seeta.in)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
