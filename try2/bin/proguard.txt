@@ -1,6 +1,0 @@
-# view AndroidManifest.xml #generated:61
--keep class com.amazon.inapp.purchasing.ResponseReceiver { <init>(...); }
-
-# view AndroidManifest.xml #generated:52
--keep class org.apache.cordova.alarm_clock.example { <init>(...); }
-
